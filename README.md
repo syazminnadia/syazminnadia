@@ -8,6 +8,9 @@
 
 ## Skills 
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-blue?style=flat&logo=c%2B%2B)
+![Photoshop Badge](https://img.shields.io/badge/Photoshop-CS6-blue)
+
+
 
 
 <!--
