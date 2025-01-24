@@ -3,9 +3,9 @@
 ## I'm a Computer Science (Graphics & Multimedia Software) student in UTM!
 
 # 💫About Me :
-🇲🇾 I'm based in Malaysia 
-📧 Any inquiries can be contacted at [minn.nadia@gmail.com](mailto:minn.nadia@gmail.com)
-👩🏻‍💻 Currently looking help in coding
+- 🇲🇾 I'm based in Malaysia 
+- 📧 Any inquiries can be contacted at [minn.nadia@gmail.com](mailto:minn.nadia@gmail.com)
+- 👩🏻‍💻 Currently looking help in coding
 
 
 ## 🌐Socials
